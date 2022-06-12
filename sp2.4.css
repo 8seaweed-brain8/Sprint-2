@@ -1,0 +1,82 @@
+body{
+    font-family: Andale Mono, monospace;
+    background-image: url('stars.jpg');
+    background-repeat: repeat-y;
+    background-size: cover;
+    color: white;  
+}
+
+h1{
+	background: -webkit-linear-gradient(#1998E6  , #06283D );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+	font-family: Trattatello, fantasy;
+	font-size: 70px;
+	letter-spacing: 5px;
+}
+
+
+
+h2{
+	background: -webkit-linear-gradient(#1ACEDA , #067EC8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+	font-family: Andale Mono, monospace;
+	font-size: 30px;
+	text-shadow: 5px 5px 10px #7BC1EC;
+}
+
+h3{
+	color: #04B2B5; 
+	font-family: Times, Times New Roman, serif;;
+	font-size: 70px;
+	text-shadow: 5px 5px 10px #86C5EC ;
+}
+
+h4{
+	color: white;
+	font-family: Arial Narrow, sans-serif;
+	font-size: 40px;
+}
+
+h5{
+	color: #8CC2FF;
+	font-family: Times, Times New Roman, serif;
+	font-size: 15px;
+}
+
+
+
+
+img{  
+ height: 430px;  
+ width: 612px;  
+ }  
+#left {    
+ text-align: left;  
+ }  
+ #center {    
+ text-align: center;  
+ }  
+ #right{    
+ text-align: right;  
+ }
+.column {
+  float: left;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+div{
+
+    font-family: Georgia, serif;
+
+    margin: 11px;
+    margin-top: 50px;
+	text-align:center;
+}
+
+
+}
